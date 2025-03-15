@@ -17,5 +17,5 @@ def play_game():
     winner = determine_winner(player1_choice, player2_choice)
     print(winner)
 
-if __name__ == "__main__":
+if __name__ == "__main__"
     play_game()
